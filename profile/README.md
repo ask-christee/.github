@@ -1,7 +1,4 @@
-## Hello
-
-Christee is a simple to use real estate finance platform.
-Our mission is to provide in-depth information that will allow for making smarter decisions when purchasing real estate.
+Christee is a simple to use real estate finance platform. Our mission is to provide in-depth information that will allow for making smarter decisions when purchasing real estate.
 
 <!--
 
